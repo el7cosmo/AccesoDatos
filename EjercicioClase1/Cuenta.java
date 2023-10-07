@@ -10,7 +10,7 @@ public class Cuenta {
     String tipo;
 
     Cuenta() {
-
+a
     }
 
     Cuenta(int numCuenta, int saldoCuenta) {
