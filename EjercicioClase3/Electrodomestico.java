@@ -130,11 +130,11 @@ public class Electrodomestico{
                 + "]";
     }
 
-    public double consumoAnual(Electrodomestico e1){
+    public double consumoAnual(){
 
         double resultado=0;
-        int dias1=e1.getDias();
-        double precioEnergia1=e1.getPrecioEnergia();
+        int dias1=this.dias;
+        double precioEnergia1=this.precioEnergia;
         resultado=(dias1*precioEnergia1);
 
 
