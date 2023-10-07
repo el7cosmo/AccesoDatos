@@ -12,7 +12,7 @@ public class Persona {
     int altura;
 
          public Persona(){
-a
+
         this.nombre="";
         this.edad=0;
         this.DNI="";
