@@ -49,6 +49,7 @@ public class InstitutoTest {
   
           Aula aula1 = new Aula("2.6", profesoresAula1, alumnosAula1);
           Aula aula2 = new Aula("2.7", profesoresAula2, alumnosAula2);
+          a
     
     }
     
